@@ -201,7 +201,7 @@ function App() {
       <DigitButton digit="7" dispatch={dispatch}/>
       <DigitButton digit="8" dispatch={dispatch}/>
       <DigitButton digit="9" dispatch={dispatch}/>
-      <DigitButton digit="-" dispatch={dispatch}/>
+      <OperationButton operation="-" dispatch={dispatch}/>
       <DigitButton digit="." dispatch={dispatch}/>
       <DigitButton digit="0" dispatch={dispatch}/>
       <button className="span-two" onClick={() => dispatch({ type: ACTIONS.EVALUATE })}>=</button>
