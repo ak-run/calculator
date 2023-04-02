@@ -1,3 +1,6 @@
+### This calculator was built using tutorial: https://www.youtube.com/watch?v=DgRrrOt0Vr8&ab_channel=WebDevSimplified
+I built it to start learning how to use react. There are lots of comments in the code, so that I can come back to it and remember what each part of the code does.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
